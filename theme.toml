@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Hugo Theme Sakura"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+description = "None"
+homepage = "http://example.com/"
+tags = ["blog","programme"]
+features = ["some"]
+min_version = "0.41.0"
+
+[author]
+  name = "Leonardo Zarkli"
+  homepage = "https://www.zps1.cn"
+
+# If porting an existing theme
+[original]
+  name = "original"
+  homepage = ""
+  repo = ""
